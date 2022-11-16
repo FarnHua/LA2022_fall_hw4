@@ -28,11 +28,11 @@ ordering_of_websites = np.zeros(len(link))
 
 """
 TODO:
-Please implement PageRank algorithm and save the result into vector: {ordering_of_websites} (a list in numpy) 
+Please implement PageRank algorithm and save the result into vector: {ordering_of_websites} (an array in numpy) 
 The web page with a higher probability comes first.
 
 Hint:
-You may refer to the formula on page 15 in LA2022_HW4.pdf
+You may refer to the formula on page 14 in LA2022_HW4.pdf
 
 
 
